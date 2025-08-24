@@ -358,6 +358,7 @@ We extend our heartfelt gratitude to all contributors who have made this project
 - Top contributors may receive special recognition and badges
 
 ---
+- [@Copilot](https://github.com/Copilot)
 
 ## 📄 License
 
