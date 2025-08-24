@@ -15,7 +15,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/CodeXtream-Community-cc/frontend-challenges-submission)](https://github.com/CodeXtream-Community-cc/frontend-challenges-submission/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/CodeXtream-Community-cc/frontend-challenges-submission)](https://github.com/CodeXtream-Community-cc/frontend-challenges-submission/pulls)
 
-[🌐 Live Demo](https://codextream-community-cc.github.io/frontend-challenges-submission/) | [📝 Contribute](#-how-to-contribute) | [👥 Community](#-contributors--community) | [📧 Support](#-support-and-contact)
+[🌐 Live Demo](https://codextreamchallengesubmission.netlify.app/) | [📝 Contribute](#-how-to-contribute) | [👥 Community](#-contributors--community) | [📧 Support](#-support-and-contact)
 
 </div>
 
@@ -96,7 +96,7 @@ Before you begin, ensure you have:
 #### Method 1: Direct Browser Access (Recommended for Viewing)
 ```bash
 # Simply open the live demo
-https://codextream-community-cc.github.io/frontend-challenges-submission/
+https://codextreamchallengesubmission.netlify.app/
 ```
 
 #### Method 2: Local Development Setup
